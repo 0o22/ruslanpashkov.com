@@ -23,7 +23,7 @@
     "@eslint/js": "^10.0.0",
     "@playform/compress": "^0.1.4",
     "@types/eslint__js": "^8.42.3",
-    "@typescript-eslint/parser": "8.9.0",
+    "@typescript-eslint/parser": "8.10.0",
     "astro": "4.16.5",
     "astro-embed": "^0.7.4",
     "astro-eslint-parser": "^1.0.3",
