@@ -1,14 +1,12 @@
 version: 2
 updates:
-  - package-ecosystem: "npm"
-    directory: "/"
+  - package-ecosystem: 'npm'
+    directory: '/'
     schedule:
-      interval: "weekly"
-    versioning-strategy: "increase"
+      interval: 'weekly'
+    versioning-strategy: 'increase'
     allow:
-      - dependency-type: "direct"
+      - dependency-type: 'direct'
     commit-message:
-      prefix: "📦"
-      prefix-development: "🔧"
-    labels:
-      - "dependencies"
+      prefix: '📦'
+      prefix-development: '🔧'
